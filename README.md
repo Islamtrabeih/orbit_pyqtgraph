@@ -5,7 +5,7 @@
 **Orbit PyQtGraph** is a Python library that transforms satellite orbit data into breathtaking interactive visualizations. Whether you're tracking the ISS, planning satellite missions, or teaching orbital mechanics, this library brings space to your screen with cinematic quality.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a23/ffffff?text=3D+Orbit+Visualization" width="800" height="400" alt="3D Orbit Demo">
+  <img src="" width="800" height="400" alt="3D Orbit Demo">
   <p><em>Real-time 3D visualization of satellite orbits around Earth</em></p>
 </div>
 
