@@ -17,6 +17,7 @@ classifiers = [
     "Intended Audience :: Education",
     "Topic :: Scientific/Engineering :: Astronomy",
     "Topic :: Scientific/Engineering :: Visualization",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.7",
@@ -25,3 +26,5 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/Islamtrabeih/orbit_pyqtgraph/tree/main"
