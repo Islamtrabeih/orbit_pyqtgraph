@@ -14,7 +14,7 @@ setup(
     description="A comprehensive orbit visualization toolkit using PyQt5, OpenGL, PIL, and datetime",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/IslamReda/orbit-visualization",
+    url="https://github.com/Islamtrabeih/orbit_pyqtgraph/tree/main",
     packages=find_packages(),
     package_data={
         'libassets': ['assets/*.jpg', 'assets/*.png'],
@@ -25,6 +25,7 @@ setup(
         "Intended Audience :: Education",
         "Topic :: Scientific/Engineering :: Astronomy",
         "Topic :: Scientific/Engineering :: Visualization",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
@@ -34,4 +35,7 @@ setup(
     python_requires=">=3.7",
     install_requires=requirements,
     keywords="orbit, visualization, astronomy, satellite, pyqt5, opengl, pil",
+     project_urls={
+        "Source": "https://github.com/Islamtrabeih/orbit_pyqtgraph/tree/main",
+    },
 )
